@@ -31,10 +31,12 @@ public class DataTypesMain {
 		
 		//float 32 bit
 		//Default 0.0f
+		//7 units of precision after.
 		float floatExample = 277.7f;
 		
 		//double 64 bit
 		//Default 0.0d
+		//16 units of precision after.
 		double doubleExample = 27777.77777d;
 		
 		//boolean 1 bit
@@ -48,6 +50,9 @@ public class DataTypesMain {
 		
 		//objects and other collections
 		
+		
+		var decode = "fqef";
+		var x=7;
 	
 	}
 
